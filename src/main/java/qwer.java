@@ -10,7 +10,8 @@ public class qwer {
 	public static void main(String[] args) {
 		System.out.println("nihao");
 		System.out.println("devqwer");
-		System.out.println("zxcvzxcvzxcv");
+		int a=1234;
+		System.out.println("a = " + a);
 	}
 
 }
