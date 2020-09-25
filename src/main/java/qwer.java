@@ -11,7 +11,8 @@ public class qwer {
 		System.out.println("nihao");
 		System.out.println("devqwer");
 		int a=1234;
-		System.out.println("a = " + a);
+		System.out.println("a = " + a+a);
+		System.out.println("a = " + a+a);
 	}
 
 }
